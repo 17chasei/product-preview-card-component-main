@@ -172,7 +172,7 @@ p {
     }
 
     .image img {
-        content: url("/images/image-product-desktop.jpg");
+        content: url("./images/image-product-desktop.jpg");
     }
 
     .button-add-to-cart:hover {
